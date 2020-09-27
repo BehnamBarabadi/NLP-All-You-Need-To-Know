@@ -1,1 +1,2 @@
-# NLP-All-You-Need-To-Know
+# NLP 
+- All You Need To Know
